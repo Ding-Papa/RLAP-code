@@ -1,0 +1,33 @@
+{"event_type": "declare bankruptcy", "arguments": ["organization"]}
+{"event_type": "transfer ownership", "arguments": ["beneficiary", "artifact", "seller", "buyer", "place"]}
+{"event_type": "marry", "arguments": ["person", "place"]}
+{"event_type": "die", "arguments": ["victim", "place", "agent", "instrument", "person"]}
+{"event_type": "phone write", "arguments": ["entity", "place"]}
+{"event_type": "arrest jail", "arguments": ["person", "agent", "place"]}
+{"event_type": "convict", "arguments": ["defendant", "adjudicator", "place"]}
+{"event_type": "sue", "arguments": ["defendant", "plaintiff", "adjudicator", "place"]}
+{"event_type": "transfer money", "arguments": ["recipient", "giver", "beneficiary", "place"]}
+{"event_type": "end organization", "arguments": ["organization", "place"]}
+{"event_type": "start organization", "arguments": ["organization", "agent", "place"]}
+{"event_type": "end position", "arguments": ["person", "entity", "place"]}
+{"event_type": "merge organization", "arguments": ["organization"]}
+{"event_type": "start position", "arguments": ["place", "entity", "person"]}
+{"event_type": "transport", "arguments": ["artifact", "destination", "origin", "agent", "vehicle", "victim", "place"]}
+{"event_type": "charge indict", "arguments": ["place", "prosecutor", "adjudicator", "defendant"]}
+{"event_type": "elect", "arguments": ["place", "person", "entity"]}
+{"event_type": "attack", "arguments": ["attacker", "place", "target", "instrument", "victim"]}
+{"event_type": "injure", "arguments": ["victim", "agent", "instrument", "place"]}
+{"event_type": "born", "arguments": ["person", "place"]}
+{"event_type": "extradite", "arguments": ["person", "origin", "destination", "agent"]}
+{"event_type": "release parole", "arguments": ["person", "place", "entity"]}
+{"event_type": "sentence", "arguments": ["adjudicator", "defendant", "place"]}
+{"event_type": "demonstrate", "arguments": ["entity", "place"]}
+{"event_type": "meet", "arguments": ["entity", "place"]}
+{"event_type": "trial hearing", "arguments": ["adjudicator", "defendant", "place", "prosecutor"]}
+{"event_type": "divorce", "arguments": ["person"]}
+{"event_type": "nominate", "arguments": ["person", "agent"]}
+{"event_type": "fine", "arguments": ["entity", "adjudicator", "place"]}
+{"event_type": "appeal", "arguments": ["adjudicator", "place", "plaintiff"]}
+{"event_type": "pardon", "arguments": ["defendant", "place", "adjudicator"]}
+{"event_type": "execute", "arguments": ["person", "agent", "place"]}
+{"event_type": "acquit", "arguments": ["defendant"]}
